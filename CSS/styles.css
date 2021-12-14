@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin: 1px;
+  background-color: powderblue;
+}
+h1 {
+ position: relative;
+ top: 15px;
+
+
+}
+.bottom-cloud {
+ position: absolute;
+ right: 800px;
+ top: 190px;
+
+
+}
+.top-cloud {
+ position: absolute;
+ right: 350px;
+ top: 20px;
+}
