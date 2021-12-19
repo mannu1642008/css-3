@@ -1,0 +1,110 @@
+body {
+	background-color: hsl(217, 54%, 11%);
+}
+.attribution {
+	margin: 100px 500px 100px 500px;
+}
+img {
+	margin: 300px 800px 300px 500px;
+	height: 300px;
+	width: 300px;
+	border-radius: 50px;
+	position: relative;
+	bottom: 300px;
+	left: 300px;
+	padding-left: 30px;
+	padding-top: 30px;
+	
+}
+.image-div {
+	position: absolute;
+    right: 100px;
+	background-color: hsl(216, 50%, 16%);
+	height: 620px;
+	width: 350px;
+	border-radius: 20px;
+
+}
+ .another-div{
+ 	font-weight: 300;
+	position: absolute;
+	top: 350px ;
+	left: 850px;
+   color: whitesmoke;
+   font-family: arial,sans-serif;
+   
+}
+.another-div2 {
+	padding-top:20px;
+	position: relative;
+	right: 20px;
+	color: grey;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+
+.images2 {
+	height: 25px;
+	width: 15px;
+	position: relative;
+	bottom: 800px;
+	right: 80px;
+	padding-top: 50px;
+}
+
+.paragraph {
+	color: hsl(178, 100%, 50%);
+	position: relative;
+	bottom: 1129px;
+	left: 850px;
+	font-size: 11px;
+	font-family:arial,sans-serif;
+
+}
+.images3 {
+	height: 13px;
+	width: 13px;
+	position: relative;
+	bottom: 1480px;
+    left: 525px;
+}
+.paragraph2 {
+	color: grey;
+	position: relative;
+	bottom: 1808px;
+	left: 1080px;
+	font-size: 11px;
+	font-family:arial,sans-serif;
+}
+ hr {
+ 	border-top: 0px;
+ 	width: 25%;
+ 	position: relative;
+ 	bottom: 1780px;
+ 	left: 350px;
+ 	color: grey;
+
+ }
+ .images4 {
+ 	height: 40px;
+ 	width: 40px;
+ 	position: relative;
+ 	bottom:2110px;
+
+
+
+ }
+ .paragraph3 {
+   color: white;
+   position: relative;
+   bottom: 2495px;
+   left: 940px;
+   padding-bottom: 100px;
+ }
+ .paragraph3x {
+   color: grey;
+   position: relative;
+   bottom: 2460px;
+   left: 880px;
+ }
